@@ -1,4 +1,4 @@
-# Muse EEG Visualizer
+# Muse Visualizer
 
 Real-time EEG visualization tools for the Muse headband, featuring ultra-high-performance plotting of raw waveforms and frequency band analysis.
 
